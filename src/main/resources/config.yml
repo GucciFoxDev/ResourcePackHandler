@@ -1,0 +1,11 @@
+## Configuration file! ##
+debug: false
+enabled: true
+
+host-port: 3000
+host-hostname: localhost
+
+uploaded-resource-pack-folder: plugins/PackHandler/uploaded-packs
+active-resource-pack-folder: plugins/PackHandler/active-packs
+
+## DO NOT TOUCH THESE OPTIONS IF YOU DON'T KNOW WHAT YOU'RE DOING ##

@@ -1,0 +1,9 @@
+name: PackHandler
+version: '1.4.0'
+main: me.ozyrncraft.PackHandler
+api-version: 1.19
+authors: [ Ozyrncraft ]
+description: A 1.19+ plugin that sends uploaded resource packs to the player.
+commands:
+  pack:
+    description: Change the resource pack per world or the whole server.
